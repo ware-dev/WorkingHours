@@ -1,0 +1,9 @@
+C:\Users\remi-\OneDrive\Bureau\csharp-tf\csharp-tf\WorkingHours\WHLib\bin\Release\netstandard2.0\WHLib.deps.json
+C:\Users\remi-\OneDrive\Bureau\csharp-tf\csharp-tf\WorkingHours\WHLib\bin\Release\netstandard2.0\WHLib.dll
+C:\Users\remi-\OneDrive\Bureau\csharp-tf\csharp-tf\WorkingHours\WHLib\bin\Release\netstandard2.0\WHLib.pdb
+C:\Users\remi-\OneDrive\Bureau\csharp-tf\csharp-tf\WorkingHours\WHLib\obj\Release\netstandard2.0\WHLib.csprojAssemblyReference.cache
+C:\Users\remi-\OneDrive\Bureau\csharp-tf\csharp-tf\WorkingHours\WHLib\obj\Release\netstandard2.0\WHLib.AssemblyInfoInputs.cache
+C:\Users\remi-\OneDrive\Bureau\csharp-tf\csharp-tf\WorkingHours\WHLib\obj\Release\netstandard2.0\WHLib.AssemblyInfo.cs
+C:\Users\remi-\OneDrive\Bureau\csharp-tf\csharp-tf\WorkingHours\WHLib\obj\Release\netstandard2.0\WHLib.csproj.CoreCompileInputs.cache
+C:\Users\remi-\OneDrive\Bureau\csharp-tf\csharp-tf\WorkingHours\WHLib\obj\Release\netstandard2.0\WHLib.dll
+C:\Users\remi-\OneDrive\Bureau\csharp-tf\csharp-tf\WorkingHours\WHLib\obj\Release\netstandard2.0\WHLib.pdb

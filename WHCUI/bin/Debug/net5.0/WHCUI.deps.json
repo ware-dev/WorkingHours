@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "WHCUI/1.0.0": {
+        "dependencies": {
+          "WHLib": "1.0.0"
+        },
+        "runtime": {
+          "WHCUI.dll": {}
+        }
+      },
+      "WHLib/1.0.0": {
+        "runtime": {
+          "WHLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WHCUI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WHLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

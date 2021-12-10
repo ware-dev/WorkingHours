@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WHCUI", "WHCUI\WHCUI.csproj", "{D9836C3F-197B-4811-892E-3126B86117DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WHLib", "WHLib\WHLib.csproj", "{7FDBDFB8-9B43-41F6-B5EB-089DD81F7333}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9836C3F-197B-4811-892E-3126B86117DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9836C3F-197B-4811-892E-3126B86117DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9836C3F-197B-4811-892E-3126B86117DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9836C3F-197B-4811-892E-3126B86117DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FDBDFB8-9B43-41F6-B5EB-089DD81F7333}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FDBDFB8-9B43-41F6-B5EB-089DD81F7333}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FDBDFB8-9B43-41F6-B5EB-089DD81F7333}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FDBDFB8-9B43-41F6-B5EB-089DD81F7333}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0EEB9465-8257-4978-BC10-0FB6D4741213}
+	EndGlobalSection
+EndGlobal

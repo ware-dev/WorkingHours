@@ -1,0 +1,10 @@
+C:\Users\remi-\OneDrive\Bureau\csharp-tf\csharp-tf\WorkingHours\WHLib\bin\Debug\netstandard2.0\WHLib.deps.json
+C:\Users\remi-\OneDrive\Bureau\csharp-tf\csharp-tf\WorkingHours\WHLib\bin\Debug\netstandard2.0\WHLib.dll
+C:\Users\remi-\OneDrive\Bureau\csharp-tf\csharp-tf\WorkingHours\WHLib\bin\Debug\netstandard2.0\WHLib.pdb
+C:\Users\remi-\OneDrive\Bureau\csharp-tf\csharp-tf\WorkingHours\WHLib\obj\Debug\netstandard2.0\WHLib.AssemblyInfoInputs.cache
+C:\Users\remi-\OneDrive\Bureau\csharp-tf\csharp-tf\WorkingHours\WHLib\obj\Debug\netstandard2.0\WHLib.AssemblyInfo.cs
+C:\Users\remi-\OneDrive\Bureau\csharp-tf\csharp-tf\WorkingHours\WHLib\obj\Debug\netstandard2.0\WHLib.csproj.CoreCompileInputs.cache
+C:\Users\remi-\OneDrive\Bureau\csharp-tf\csharp-tf\WorkingHours\WHLib\obj\Debug\netstandard2.0\WHLib.dll
+C:\Users\remi-\OneDrive\Bureau\csharp-tf\csharp-tf\WorkingHours\WHLib\obj\Debug\netstandard2.0\WHLib.pdb
+C:\Users\remi-\OneDrive\Bureau\csharp-tf\csharp-tf\WorkingHours\WHLib\obj\Debug\netstandard2.0\WHLib.csproj.AssemblyReference.cache
+C:\Users\remi-\OneDrive\Bureau\csharp-tf\csharp-tf\WorkingHours\WHLib\obj\Debug\netstandard2.0\WHLib.GeneratedMSBuildEditorConfig.editorconfig

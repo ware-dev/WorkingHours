@@ -1,0 +1,8 @@
+John Doe
+Day Hours : 8 h 30 min
+Week Hours : 42 h 30 min
+
+Mary Anne
+Day Hours : 7 h 45 min
+Week Hours : 38 h 45 min
+
