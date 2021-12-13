@@ -48,6 +48,13 @@ namespace WHCUI
                 }
             }
         }
+        /// <summary>
+        /// Method that will write the data in file
+        /// </summary>
+        /// <param name="name">The name of the person</param>
+        /// <param name="dayTime">Object Time that represent the shift of the day</param>
+        /// <param name="weekTime">Object Time that represent the shift of the week</param>
+        /// <return></return>
         private static void WriteInFile(string name, Time dayTime, Time weekTime)
         {
             using (StreamWriter sw = File.AppendText("..\\Data\\WorkingHours.txt"))
@@ -57,7 +64,12 @@ namespace WHCUI
                 sw.WriteLine("Week Hours : " + weekTime.ToString() + "\n");
             }
         }
-
+        /// <summary>
+        /// Method that will ask the shift timing information, check them.
+        /// Than return them as a Time Object
+        /// </summary>
+        /// <param name="typeHeure">string that specify de timing of the shift</param>
+        /// <return>A Time Object containing the beggining and ending hours of the shift</return>
         private static Time ReadTime(string typeHeure)
         {
             Console.Write($"Quelle est l'heure de {typeHeure} de travail : (hh:mm) : ");
